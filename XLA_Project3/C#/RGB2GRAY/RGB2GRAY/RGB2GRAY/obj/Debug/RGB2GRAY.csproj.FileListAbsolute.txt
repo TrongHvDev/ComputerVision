@@ -1,0 +1,10 @@
+E:\Nam_3\ThiGiacMay\Project\XLA_Project3\C#\RGB2GRAY\RGB2GRAY\RGB2GRAY\bin\Debug\RGB2GRAY.exe.config
+E:\Nam_3\ThiGiacMay\Project\XLA_Project3\C#\RGB2GRAY\RGB2GRAY\RGB2GRAY\bin\Debug\RGB2GRAY.exe
+E:\Nam_3\ThiGiacMay\Project\XLA_Project3\C#\RGB2GRAY\RGB2GRAY\RGB2GRAY\bin\Debug\RGB2GRAY.pdb
+E:\Nam_3\ThiGiacMay\Project\XLA_Project3\C#\RGB2GRAY\RGB2GRAY\RGB2GRAY\obj\Debug\RGB2GRAY.csprojAssemblyReference.cache
+E:\Nam_3\ThiGiacMay\Project\XLA_Project3\C#\RGB2GRAY\RGB2GRAY\RGB2GRAY\obj\Debug\RGB2GRAY.Form1.resources
+E:\Nam_3\ThiGiacMay\Project\XLA_Project3\C#\RGB2GRAY\RGB2GRAY\RGB2GRAY\obj\Debug\RGB2GRAY.Properties.Resources.resources
+E:\Nam_3\ThiGiacMay\Project\XLA_Project3\C#\RGB2GRAY\RGB2GRAY\RGB2GRAY\obj\Debug\RGB2GRAY.csproj.GenerateResource.cache
+E:\Nam_3\ThiGiacMay\Project\XLA_Project3\C#\RGB2GRAY\RGB2GRAY\RGB2GRAY\obj\Debug\RGB2GRAY.csproj.CoreCompileInputs.cache
+E:\Nam_3\ThiGiacMay\Project\XLA_Project3\C#\RGB2GRAY\RGB2GRAY\RGB2GRAY\obj\Debug\RGB2GRAY.exe
+E:\Nam_3\ThiGiacMay\Project\XLA_Project3\C#\RGB2GRAY\RGB2GRAY\RGB2GRAY\obj\Debug\RGB2GRAY.pdb
